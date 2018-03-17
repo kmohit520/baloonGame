@@ -14,9 +14,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
 
-/**
- * Created by cerebro on 27/06/17.
- */
+
 public class GamePanel extends JPanel implements KeyListener, MouseListener, Runnable {
 
     public static State currentState;
