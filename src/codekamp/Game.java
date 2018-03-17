@@ -2,9 +2,7 @@ package codekamp;
 
 import javax.swing.*;
 
-/**
- * Created by cerebro on 27/06/17.
- */
+
 public class Game {
 
     public static final int WIDTH = 300;
